@@ -3,7 +3,7 @@ Demo
 Swift Version 5 Latest
 Xcode Version 15.3 Latest
 In this Demo I used Network service and image service using cache and data store using custom code NOT USED ANY Third Party.
-download the demo folder Click on Demo.xcodeproj file and run the project.
+download the demo folder Click on Demo.xcodeproj file and run the project. internet checking in this demo also.
 
 
 https://github.com/jiks903/Demo/assets/24563909/55a8b348-6de9-4eda-88b4-c711e9ddad14
